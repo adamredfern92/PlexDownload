@@ -5,9 +5,9 @@ A quick script to download tv shows and movies from a local Plex server. Useful 
 ### Config
 
 Three variables need to be changed in the config file:
-*`plexUrl` - the url to your plex server
-*`plexToken` - the authentification [token](https://support.plex.tv/hc/en-us/articles/204059436-Finding-an-authentication-token-X-Plex-Token) for plex
-*`libraryPath` - save location for the files
+* `plexUrl` - the url to your plex server
+* `plexToken` - the authentification [token](https://support.plex.tv/hc/en-us/articles/204059436-Finding-an-authentication-token-X-Plex-Token) for plex
+* `libraryPath` - save location for the files
 
 ### Usage
 
