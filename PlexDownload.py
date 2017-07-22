@@ -1,4 +1,5 @@
 import os
+import errno
 import plexapi
 from multiprocessing import Process
 import progressbar
