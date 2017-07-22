@@ -2,6 +2,14 @@
 
 A quick script to download tv shows and movies from a local Plex server. Useful if you want to quickly get some stuff on a laptop if your traveling.
 
+### Requirements
+
+Requires progressbar
+
+```
+	pip install progressbar2
+```
+
 ### Config
 
 Three variables need to be changed in the config file:
@@ -16,3 +24,5 @@ Three variables need to be changed in the config file:
 ```
 
 Just follow instructions. At anytime type `exit` to quit or `back` to go back a step.
+
+If you have selected a show or a season you can type `all` to download every episode or `unwatched` to just get unwatched.

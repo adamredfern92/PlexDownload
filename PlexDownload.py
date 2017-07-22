@@ -4,7 +4,6 @@ from multiprocessing import Process
 import progressbar
 from plexapi.server import PlexServer
 from PlexConfig import *
-from Functions import newFolder
 
 def newFolder(path):
     try:
